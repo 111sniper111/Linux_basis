@@ -3,6 +3,9 @@ echo 'Hostname : ' $(hostname)
 echo 'User : ' $(whoami)
 echo 'OS Version : ' $(uname)
 echo 'Date : ' $(date)
+echo "****************************************"
+echo " TYPO RESILVED FOR TASK 3.6 "
+echo ""
 
 echo '----------------------------------------'
 echo " conditionals "
