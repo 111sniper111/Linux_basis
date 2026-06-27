@@ -1,5 +1,5 @@
-#********************TASK-1********************
-##Output with the given commands
+# ********************TASK-1********************
+## Output with the given commands
 
 pranav@pranav-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Linux_basis$ pwd
 /home/pranav/Linux_basis
@@ -14,11 +14,12 @@ pranav@pranav-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Linux_basis/aries_devkit$ c
 pranav@pranav-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Linux_basis$ find aries_devkit/ -type f -name "*.md"   
 aries_devkit/README.md
 
-#********************TASK-3*********************
+# ********************TASK-3*********************
 
-##GIT AND GITHUB WORKFLOW 
+## GIT AND GITHUB WORKFLOW 
 
 My main repo which conatins everything is Linux_basis and i have initliased that directory as my repo.
 
-###TO RUN THE SCRIPTS PRESENT IN THE SCRIPTS FOLDER. 
+### TO RUN THE SCRIPTS PRESENT IN THE SCRIPTS FOLDER. 
+
 you must run ./setup_check.sh and ./aries_devkit/scripts/git_summary.sh respectively.
